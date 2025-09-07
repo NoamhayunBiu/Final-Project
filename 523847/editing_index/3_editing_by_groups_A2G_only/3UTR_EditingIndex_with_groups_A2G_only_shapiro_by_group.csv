@@ -1,0 +1,5 @@
+Phase,treatment,n,shapiro_p
+Active phase (ZT15),Exercise,33,0.4225990461627811
+Active phase (ZT15),Sedentary,35,0.00016452248947999712
+Rest phase (ZT3),Exercise,36,0.0007454509395019035
+Rest phase (ZT3),Sedentary,35,0.08928443753948274
